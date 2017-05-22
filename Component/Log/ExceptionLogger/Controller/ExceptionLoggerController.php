@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,9 +11,9 @@
 
 namespace Komin\Component\Log\ExceptionLogger\Controller;
 
-use Bee\Abstractive\CallableProvider\CallableProviderInterface;
-use Bee\Bat\BglobTool;
-use Bee\Bat\NumberTool;
+use BeeFramework\Abstractive\CallableProvider\CallableProviderInterface;
+use BeeFramework\Bat\BglobTool;
+use BeeFramework\Bat\NumberTool;
 use Komin\Component\Log\ExceptionLogger\Listener\ExceptionListenerInterface;
 
 

@@ -75,7 +75,7 @@ Client:
             types:
                 modules: (tel que proposé par le mee@bee le vns est 3m, la notation avec range est permise)
                     - komin.base
-                    - arachnophoBee.apiSnapshot@1.2
+                    - arachnophoBeeFramework.apiSnapshot@1.2
                     - pragmatik.crud@*
                     - ... longue liste
                     

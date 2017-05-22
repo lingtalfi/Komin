@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Component\Log\ProcessLogger;
 
-use Bee\Bat\StringTool;
+use BeeFramework\Bat\StringTool;
 use Komin\Notation\String\MiniMl\Tool\MiniMlTool;
 
 

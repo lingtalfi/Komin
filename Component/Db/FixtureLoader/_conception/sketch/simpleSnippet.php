@@ -1,9 +1,9 @@
 <?php
 
 
-use Bee\Application\ServiceContainer\ServiceContainer\SoapContainer;
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use Bee\Notation\Service\Biskotte\ContainerBuilder\BiscotteContainerBuilderTool;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\SoapContainer;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Notation\Service\Biskotte\ContainerBuilder\BiscotteContainerBuilderTool;
 use Soap\Komin\Db\FixtureLoader\SoapFixtureLoader;
 
 require_once 'alveolus/bee/boot/autoload.php';

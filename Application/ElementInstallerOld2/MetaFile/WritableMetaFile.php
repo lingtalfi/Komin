@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Application\ElementInstaller\MetaFile;
 
-use Bee\Bat\BdotTool;
+use BeeFramework\Bat\BdotTool;
 use Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;
 
 

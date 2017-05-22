@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -16,12 +16,12 @@ use Komin\Application\ElementInstaller\Install\Tool\InstallTool;
 
 
 /**
- * BeeModuleUncompressedBundleInstaller
+ * BeeFrameworkModuleUncompressedBundleInstaller
  * @author Lingtalfi
  * 2015-05-21
  *
  */
-class BeeModuleUncompressedBundleInstaller extends BaseUncompressedBundleInstaller
+class BeeFrameworkModuleUncompressedBundleInstaller extends BaseUncompressedBundleInstaller
 {
 
 

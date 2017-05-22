@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Sound\ShellSoundPlayer;
 
-use Bee\Bat\MachineTool;
-use Bee\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Bat\MachineTool;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

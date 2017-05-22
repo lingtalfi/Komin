@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Component\Db\QuickPdo;
 
-use Bee\Component\Log\Logger\LoggerInterface;
-use Bee\Component\Log\SimpleLogger\SimpleLoggerInterface;
+use BeeFramework\Component\Log\Logger\LoggerInterface;
+use BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
 use Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
 
 

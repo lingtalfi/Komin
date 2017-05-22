@@ -102,10 +102,10 @@ config:
 types:
     packages:
             komin: 1+
-            arachnophoBee: 1.*.*+
+            arachnophoBeeFramework: 1.*.*+
     plugins:
             komin/base: 2.4+
-            arachnophoBee/mystifier: 1.*
+            arachnophoBeeFramework/mystifier: 1.*
 
             
 

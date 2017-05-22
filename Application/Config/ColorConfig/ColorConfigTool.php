@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Application\Config\ColorConfig;
 
-use Bee\Application\Config\Util\FeeConfig;
-use Bee\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
+use BeeFramework\Application\Config\Util\FeeConfig;
+use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
 
 
 /**

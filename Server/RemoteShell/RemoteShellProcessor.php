@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,11 +11,11 @@
 
 namespace Komin\Server\RemoteShell;
 
-use Bee\Component\Log\SuperLogger\SuperLogger;
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use Bee\Bat\BdotTool;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
 use Komin\Server\RemoteShell\Command\CommandInterface;
 
 

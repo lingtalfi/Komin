@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Component\Monitor\Traits;
 
-use Bee\Bat\VarTool;
+use BeeFramework\Bat\VarTool;
 use Komin\Component\Monitor\ClassicMonitor;
 use Komin\Component\Monitor\VoidMonitor;
 

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,10 +11,10 @@
 
 namespace Komin\Application\ModuleInstaller\Installer;
 
-use Bee\Bat\FileTool;
-use Bee\Bat\VarTool;
-use Bee\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
-use Bee\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use BeeFramework\Bat\FileTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
+use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
 use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
 use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;
 

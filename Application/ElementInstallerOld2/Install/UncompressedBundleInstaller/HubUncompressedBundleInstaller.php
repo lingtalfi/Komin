@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
 
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
 use Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
 use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
 use Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;

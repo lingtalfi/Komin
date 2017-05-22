@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Component\Db\FixtureLoader;
 
-use Bee\Chemical\Errors\Voles\VersatileErrorsTrait;
+use BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
 use Komin\Component\Db\FixtureLoader\DbProcessor\DbProcessorInterface;
 use Komin\Component\Db\FixtureLoader\DbProcessor\PdoDbProcessor;
 use Komin\Component\Db\FixtureLoader\DbProcessor\PdoMysqlDbProcessor;

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,7 +11,7 @@
 
 namespace Komin\Component\Console\InteractiveArray;
 
-use Bee\Bat\ArrayTool;
+use BeeFramework\Bat\ArrayTool;
 use Komin\Component\Console\Dialog\Dialog;
 use Komin\Component\Console\Dialog\Tool\BooleanDialogTool;
 use Komin\Component\Console\Dialog\Tool\DialogListTool;

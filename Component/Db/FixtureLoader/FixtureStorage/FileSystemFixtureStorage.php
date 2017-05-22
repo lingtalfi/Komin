@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Component\Db\FixtureLoader\FixtureStorage;
 
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
 use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
 
 

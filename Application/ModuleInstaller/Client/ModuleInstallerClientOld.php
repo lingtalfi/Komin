@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,12 +11,12 @@
 
 namespace Komin\Application\ModuleInstaller\Client;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\SanitizerTool;
-use Bee\Bat\VarTool;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
-use Bee\Component\Log\SimpleLogger\Traits\SyslogLoggerTrait;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\SanitizerTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
+use BeeFramework\Component\Log\SimpleLogger\Traits\SyslogLoggerTrait;
 use Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\ModuleInstallerClientTool;
 use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
 use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;

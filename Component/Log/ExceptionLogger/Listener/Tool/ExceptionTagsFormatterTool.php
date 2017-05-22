@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Component\Log\ExceptionLogger\Listener\Tool;
 
-use Bee\Bat\ClassTool;
-use Bee\Bat\DateTool;
+use BeeFramework\Bat\ClassTool;
+use BeeFramework\Bat\DateTool;
 
 
 /**

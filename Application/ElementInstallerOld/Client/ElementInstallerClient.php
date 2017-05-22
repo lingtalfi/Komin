@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Application\ElementInstallerOld\Client;
 
-use Bee\Bat\ClassTool;
-use Bee\Bat\FileSystemTool;
+use BeeFramework\Bat\ClassTool;
+use BeeFramework\Bat\FileSystemTool;
 use Komin\Application\ElementInstallerOld\Installer\ElementInstallerInterface;
 use Komin\Application\ElementInstallerOld\MetaMapInterpreter\MetaMapInterpreterInterface;
 use Komin\Application\ElementInstallerOld\MetaRepository\MetaRepositoryInterface;

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,11 +11,11 @@
 
 namespace Komin\Log\SuperLogger;
 
-use Bee\Component\Log\FileRotator\BySizeFileRotator;
-use Bee\Component\Log\SuperLogger\Listener\DisplayListener;
-use Bee\Component\Log\SuperLogger\Listener\PlaySoundListener;
-use Bee\Component\Log\SuperLogger\Listener\ToFileListener;
-use Bee\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
+use BeeFramework\Component\Log\SuperLogger\Listener\DisplayListener;
+use BeeFramework\Component\Log\SuperLogger\Listener\PlaySoundListener;
+use BeeFramework\Component\Log\SuperLogger\Listener\ToFileListener;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
 use Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
 
 

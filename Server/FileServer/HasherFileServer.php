@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,9 +11,9 @@
 
 namespace Komin\Server\FileServer;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\FileTool;
-use Bee\Bat\SanitizerTool;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\FileTool;
+use BeeFramework\Bat\SanitizerTool;
 
 
 /**

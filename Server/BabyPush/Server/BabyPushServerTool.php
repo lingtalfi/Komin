@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,9 +11,9 @@
 
 namespace Komin\Server\BabyPush\Server;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\RandomTool;
-use Bee\Bat\StringTool;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\RandomTool;
+use BeeFramework\Bat\StringTool;
 use Komin\Server\BabyPush\Task\TaskInterface;
 
 

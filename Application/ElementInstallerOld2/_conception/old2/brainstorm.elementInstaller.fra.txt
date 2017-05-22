@@ -91,7 +91,7 @@ Le metaFile ne contient pas les informations de téléchargement de l'élément.
 En effet, un élément n'est pas censé connaître le système par lequel il est distribué.
 
 Par convention, le nom du fichier bundle est un nom unique, qui est l'équivalent de l'elementId de l'élément mais en version nom de fichier
-(caractères "bizarres" transformés en dash, et dashs consécutifs réduits à un dash, la méthode Bee.Bat.SanitizeTool.sanitizeFileName est utilisée).
+(caractères "bizarres" transformés en dash, et dashs consécutifs réduits à un dash, la méthode BeeFramework.Bat.SanitizeTool.sanitizeFileName est utilisée).
 De plus, les trois éléments type, name et version sont séparés par deux dashes.
 
 Cela permet d'avoir un nom de fichier explicite.

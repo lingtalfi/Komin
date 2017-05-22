@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,8 +11,8 @@
 
 namespace Komin\Application\ElementInstaller\Install\Tool;
 
-use Bee\Bat\CompressTool;
-use Bee\Bat\FileSystemTool;
+use BeeFramework\Bat\CompressTool;
+use BeeFramework\Bat\FileSystemTool;
 use Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
 use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
 

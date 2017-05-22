@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -11,9 +11,9 @@
 
 namespace Komin\Component\Db\FixtureLoader\FixtureStorage;
 
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
 use Komin\Component\Db\FixtureLoader\Fixture\Fixture;
 use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
 use Komin\Component\Db\FixtureLoader\FixtureStorage\Exception\FixtureStorageException;
