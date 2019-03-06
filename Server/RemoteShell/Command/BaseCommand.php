@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\RemoteShell\Command;
+namespace Ling\Komin\Server\RemoteShell\Command;
 
-use BeeFramework\Bat\ClassTool;
+use Ling\BeeFramework\Bat\ClassTool;
 
 
 /**

@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
+namespace Ling\Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
 
-use Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
-use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
-use Komin\Application\ElementInstaller\MetaFile\MetaFileAwareInterface;
-use Komin\Application\ElementInstaller\MetaFile\MetaFileInterface;
-use Komin\Component\Log\ProcessLogger\ProcessLoggerAwareInterface;
-use Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
+use Ling\Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
+use Ling\Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
+use Ling\Komin\Application\ElementInstaller\MetaFile\MetaFileAwareInterface;
+use Ling\Komin\Application\ElementInstaller\MetaFile\MetaFileInterface;
+use Ling\Komin\Component\Log\ProcessLogger\ProcessLoggerAwareInterface;
+use Ling\Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
 
 
 /**

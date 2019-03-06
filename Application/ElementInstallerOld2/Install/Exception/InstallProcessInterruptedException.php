@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\Exception;
+namespace Ling\Komin\Application\ElementInstaller\Install\Exception;
 
 
 

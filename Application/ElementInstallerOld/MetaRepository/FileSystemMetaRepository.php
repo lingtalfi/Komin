@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\MetaRepository;
+namespace Ling\Komin\Application\ElementInstallerOld\MetaRepository;
 
-use Komin\Server\FileServer\FileServerInterface;
-use Komin\Server\FileServer\HasherFileServer;
+use Ling\Komin\Server\FileServer\FileServerInterface;
+use Ling\Komin\Server\FileServer\HasherFileServer;
 
 
 /**

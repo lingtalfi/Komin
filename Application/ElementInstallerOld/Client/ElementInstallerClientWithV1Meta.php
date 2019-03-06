@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Client;
+namespace Ling\Komin\Application\ElementInstallerOld\Client;
 
 
-use Komin\Application\ElementInstallerOld\MetaMapInterpreter\V1MetaMapInterpreter;
+use Ling\Komin\Application\ElementInstallerOld\MetaMapInterpreter\V1MetaMapInterpreter;
 
 
 /**

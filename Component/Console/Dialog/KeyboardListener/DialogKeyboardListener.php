@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\Dialog\KeyboardListener;
+namespace Ling\Komin\Component\Console\Dialog\KeyboardListener;
 
-use Komin\Component\Console\KeyboardListener\KeyboardListener;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodesKeyboardListenerObserver;
+use Ling\Komin\Component\Console\KeyboardListener\KeyboardListener;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodesKeyboardListenerObserver;
 
 
 /**

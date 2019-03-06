@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper;
+namespace Ling\Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper;
 
-use Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\PhpStdinStreamWrapper\PhpStdinStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\PhpStdinStreamWrapper\PhpStdinStreamWrapper;
 
 
 /**

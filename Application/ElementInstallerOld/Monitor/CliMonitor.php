@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Monitor;
+namespace Ling\Komin\Application\ElementInstallerOld\Monitor;
 
-use Komin\Component\Console\StreamWrapper\ProgramStreamWrappers\ProgramStreamWrappersInterface;
+use Ling\Komin\Component\Console\StreamWrapper\ProgramStreamWrappers\ProgramStreamWrappersInterface;
 
 
 /**

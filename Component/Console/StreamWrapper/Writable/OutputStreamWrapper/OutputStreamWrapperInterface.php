@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Writable\WritableStreamWrapperInterface;
+namespace Ling\Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\WritableStreamWrapperInterface;
 
 
 /**

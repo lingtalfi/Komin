@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLine;
+namespace Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLine;
 
-use Komin\Component\Console\Tool\TerminalCodesTool;
-use Komin\Component\Console\Tool\TerminalInfoTool;
+use Ling\Komin\Component\Console\Tool\TerminalCodesTool;
+use Ling\Komin\Component\Console\Tool\TerminalInfoTool;
 
 
 /**

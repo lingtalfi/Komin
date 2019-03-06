@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\BabyPush\Task;
+namespace Ling\Komin\Server\BabyPush\Task;
 
 
 /**

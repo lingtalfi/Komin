@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Listener;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Listener;
 
 
 /**

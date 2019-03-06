@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\MetaMapInterpreter;
+namespace Ling\Komin\Application\ElementInstallerOld\MetaMapInterpreter;
 
-use BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Bat\ArrayTool;
 
 
 /**

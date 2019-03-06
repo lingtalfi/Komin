@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Installer;
+namespace Ling\Komin\Application\ModuleInstaller\Installer;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
-use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
-use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
-use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
+use Ling\BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use Ling\Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
+use Ling\Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;
 
 
 /**

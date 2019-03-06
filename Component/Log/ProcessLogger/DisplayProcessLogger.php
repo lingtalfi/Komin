@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ProcessLogger;
+namespace Ling\Komin\Component\Log\ProcessLogger;
 
-use BeeFramework\Bat\StringTool;
-use Komin\Notation\String\MiniMl\Tool\MiniMlTool;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\Komin\Notation\String\MiniMl\Tool\MiniMlTool;
 
 
 /**

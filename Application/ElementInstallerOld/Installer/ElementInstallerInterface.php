@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Installer;
+namespace Ling\Komin\Application\ElementInstallerOld\Installer;
 
 
 /**

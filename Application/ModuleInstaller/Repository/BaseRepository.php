@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Repository;
+namespace Ling\Komin\Application\ModuleInstaller\Repository;
 
-use BeeFramework\Component\Log\SimpleLogger\Traits\LoggerTrait;
-use Komin\Application\ModuleInstaller\Repository\ProtocolHelper\RepositoryProtocolHelper;
-use Komin\Application\ModuleInstaller\Repository\ProtocolHelper\RepositoryProtocolHelperInterface;
+use Ling\BeeFramework\Component\Log\SimpleLogger\Traits\LoggerTrait;
+use Ling\Komin\Application\ModuleInstaller\Repository\ProtocolHelper\RepositoryProtocolHelper;
+use Ling\Komin\Application\ModuleInstaller\Repository\ProtocolHelper\RepositoryProtocolHelperInterface;
 
 
 /**

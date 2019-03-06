@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\BabyPush\Task;
+namespace Ling\Komin\Server\BabyPush\Task;
 
-use Komin\Server\BabyPush\Server\BabyPushServerTool;
+use Ling\Komin\Server\BabyPush\Server\BabyPushServerTool;
 
 
 /**

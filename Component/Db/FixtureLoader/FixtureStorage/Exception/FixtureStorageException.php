@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader\FixtureStorage\Exception;
-use Komin\Component\Db\FixtureLoader\Exception\FixtureLoaderException;
+namespace Ling\Komin\Component\Db\FixtureLoader\FixtureStorage\Exception;
+use Ling\Komin\Component\Db\FixtureLoader\Exception\FixtureLoaderException;
 
 
 /**

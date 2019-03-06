@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\Dialog\Tool;
+namespace Ling\Komin\Component\Console\Dialog\Tool;
 
-use Komin\Component\Console\Dialog\DialogInterface;
-use Komin\Component\Console\Dialog\Util\DialogListQuestionUtil;
+use Ling\Komin\Component\Console\Dialog\DialogInterface;
+use Ling\Komin\Component\Console\Dialog\Util\DialogListQuestionUtil;
 
 
 /**

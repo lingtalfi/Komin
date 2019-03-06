@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\KeyboardListener;
+namespace Ling\Komin\Component\Console\KeyboardListener;
 
-use BeeFramework\Bat\MachineTool;
-use Komin\Component\Console\KeyboardListener\Observer\KeyboardListenerObserverInterface;
+use Ling\BeeFramework\Bat\MachineTool;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\KeyboardListenerObserverInterface;
 
 
 /**

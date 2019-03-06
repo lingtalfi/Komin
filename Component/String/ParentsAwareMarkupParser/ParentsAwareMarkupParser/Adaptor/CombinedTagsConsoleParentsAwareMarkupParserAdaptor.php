@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser\Adaptor;
+namespace Ling\Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser\Adaptor;
 
 
 /**

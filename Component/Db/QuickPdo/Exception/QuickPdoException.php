@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\QuickPdo\Exception;
+namespace Ling\Komin\Component\Db\QuickPdo\Exception;
 
 
 

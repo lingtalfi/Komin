@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\MetaRepository;
+namespace Ling\Komin\Application\ElementInstallerOld\MetaRepository;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Bat\SanitizerTool;
-use BeeFramework\Notation\File\BabyDash\Tool\BabyDashTool;
-use Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloaderInterface;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\SanitizerTool;
+use Ling\BeeFramework\Notation\File\BabyDash\Tool\BabyDashTool;
+use Ling\Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloaderInterface;
 
 
 /**

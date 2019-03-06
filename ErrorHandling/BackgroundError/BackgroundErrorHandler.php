@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\ErrorHandling\BackgroundError;
+namespace Ling\Komin\ErrorHandling\BackgroundError;
 
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

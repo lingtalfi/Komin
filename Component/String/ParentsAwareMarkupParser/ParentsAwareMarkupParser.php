@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\String\ParentsAwareMarkupParser;
+namespace Ling\Komin\Component\String\ParentsAwareMarkupParser;
 
-use Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser\Adaptor\ParentsAwareMarkupParserAdaptorInterface;
+use Ling\Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser\Adaptor\ParentsAwareMarkupParserAdaptorInterface;
 
 
 /**

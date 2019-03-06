@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Listener;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Listener;
 
-use BeeFramework\Bat\DateTool;
-use BeeFramework\Component\Mail\SmtpMailer\SmtpClientInterface;
-use Komin\Component\Log\ExceptionLogger\Listener\Tool\ExceptionTagsFormatterTool;
+use Ling\BeeFramework\Bat\DateTool;
+use Ling\BeeFramework\Component\Mail\SmtpMailer\SmtpClientInterface;
+use Ling\Komin\Component\Log\ExceptionLogger\Listener\Tool\ExceptionTagsFormatterTool;
 
 
 /**

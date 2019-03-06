@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Monitor;
-use Komin\Notation\String\MiniMl\Tool\MiniMlTool;
+namespace Ling\Komin\Component\Monitor;
+use Ling\Komin\Notation\String\MiniMl\Tool\MiniMlTool;
 
 
 /**

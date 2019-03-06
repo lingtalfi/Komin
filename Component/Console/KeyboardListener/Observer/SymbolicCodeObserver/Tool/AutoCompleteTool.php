@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool;
+namespace Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool;
 
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 
 /**

@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader\FixtureStorage;
+namespace Ling\Komin\Component\Db\FixtureLoader\FixtureStorage;
 
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use Komin\Component\Db\FixtureLoader\Fixture\Fixture;
-use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
-use Komin\Component\Db\FixtureLoader\FixtureStorage\Exception\FixtureStorageException;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\Komin\Component\Db\FixtureLoader\Fixture\Fixture;
+use Ling\Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
+use Ling\Komin\Component\Db\FixtureLoader\FixtureStorage\Exception\FixtureStorageException;
 
 
 /**

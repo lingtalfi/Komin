@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\BundleInstaller;
+namespace Ling\Komin\Application\ElementInstaller\Install\BundleInstaller;
 
-use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
+use Ling\Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
 
 
 /**

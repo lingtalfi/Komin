@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Monitor\Listener;
+namespace Ling\Komin\Component\Monitor\Listener;
 
 
 /**

@@ -2,9 +2,9 @@
 <?php
 
 
-use Komin\Component\Console\InteractiveArray\InteractiveArray;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver;
-use Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
+use Ling\Komin\Component\Console\InteractiveArray\InteractiveArray;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver;
+use Ling\Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

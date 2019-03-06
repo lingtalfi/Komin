@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\Tool;
+namespace Ling\Komin\Application\ElementInstaller\Install\Tool;
 
-use BeeFramework\Bat\CompressTool;
-use BeeFramework\Bat\FileSystemTool;
-use Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
-use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
+use Ling\BeeFramework\Bat\CompressTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
+use Ling\Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
 
 
 /**

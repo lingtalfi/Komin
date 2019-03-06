@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\RemoteShell;
+namespace Ling\Komin\Server\RemoteShell;
 
 
 /**

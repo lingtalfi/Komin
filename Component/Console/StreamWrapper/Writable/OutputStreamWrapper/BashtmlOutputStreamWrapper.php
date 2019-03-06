@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper;
+namespace Ling\Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper;
 
-use Komin\Component\Console\StreamWrapper\Writable\Formatter\BashtmlFormatter;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\Formatter\BashtmlFormatter;
 
 
 /**

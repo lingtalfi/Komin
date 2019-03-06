@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\BabyPush\ServerApi;
+namespace Ling\Komin\Server\BabyPush\ServerApi;
 
-use Komin\Server\AjaxTim\AjaxTimSessionInterface;
-use Komin\Server\BabyPush\Server\BabyPushServer;
-use Komin\Server\BabyPush\Task\TaskInterface;
+use Ling\Komin\Server\AjaxTim\AjaxTimSessionInterface;
+use Ling\Komin\Server\BabyPush\Server\BabyPushServer;
+use Ling\Komin\Server\BabyPush\Task\TaskInterface;
 
 
 /**

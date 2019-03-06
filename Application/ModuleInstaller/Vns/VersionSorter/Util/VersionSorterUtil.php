@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Vns\VersionSorter;
+namespace Ling\Komin\Application\ModuleInstaller\Vns\VersionSorter;
 
 
 /**

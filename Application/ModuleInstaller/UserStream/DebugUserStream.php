@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\UserStream;
+namespace Ling\Komin\Application\ModuleInstaller\UserStream;
 
-use Komin\Component\Console\Util\Interactive\Dialog\DialogInterface;
-use Komin\Component\Console\Util\Interactive\Dialog\ListDialog;
-use Komin\Component\Console\Util\Interactive\InteractiveLine\InteractiveLineInterface;
+use Ling\Komin\Component\Console\Util\Interactive\Dialog\DialogInterface;
+use Ling\Komin\Component\Console\Util\Interactive\Dialog\ListDialog;
+use Ling\Komin\Component\Console\Util\Interactive\InteractiveLine\InteractiveLineInterface;
 
 
 /**

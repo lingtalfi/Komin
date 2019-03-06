@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Repository;
+namespace Ling\Komin\Application\ModuleInstaller\Repository;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\SanitizerTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\SanitizerTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
 
 
 /**

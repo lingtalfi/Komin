@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Listener;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Listener;
 
-use BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
-use Komin\Component\Log\ExceptionLogger\Listener\Tool\ExceptionTagsFormatterTool;
+use Ling\BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
+use Ling\Komin\Component\Log\ExceptionLogger\Listener\Tool\ExceptionTagsFormatterTool;
 
 
 /**

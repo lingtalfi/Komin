@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Mail\XMail;
+namespace Ling\Komin\Component\Mail\XMail;
 
-use Komin\Component\Mail\XMail\XMailer\XMailerInterface;
+use Ling\Komin\Component\Mail\XMail\XMailer\XMailerInterface;
 
 
 /**

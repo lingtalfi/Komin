@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader\FixtureStorage;
+namespace Ling\Komin\Component\Db\FixtureLoader\FixtureStorage;
 
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
 
 
 /**

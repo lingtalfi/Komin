@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\RemoteShell;
+namespace Ling\Komin\Server\RemoteShell;
 
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use Komin\Server\RemoteShell\Command\CommandInterface;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\Komin\Server\RemoteShell\Command\CommandInterface;
 
 
 /**

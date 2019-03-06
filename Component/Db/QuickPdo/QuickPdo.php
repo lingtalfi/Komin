@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\QuickPdo;
+namespace Ling\Komin\Component\Db\QuickPdo;
 
-use BeeFramework\Component\Log\Logger\LoggerInterface;
-use BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
-use Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
+use Ling\BeeFramework\Component\Log\Logger\LoggerInterface;
+use Ling\BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
+use Ling\Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
 
 
 /**

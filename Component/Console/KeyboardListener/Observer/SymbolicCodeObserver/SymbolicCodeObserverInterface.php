@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver;
-use Komin\Component\Console\KeyboardListener\KeyboardListenerInterface;
+namespace Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver;
+use Ling\Komin\Component\Console\KeyboardListener\KeyboardListenerInterface;
 
 
 /**

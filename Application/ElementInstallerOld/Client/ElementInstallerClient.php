@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Client;
+namespace Ling\Komin\Application\ElementInstallerOld\Client;
 
-use BeeFramework\Bat\ClassTool;
-use BeeFramework\Bat\FileSystemTool;
-use Komin\Application\ElementInstallerOld\Installer\ElementInstallerInterface;
-use Komin\Application\ElementInstallerOld\MetaMapInterpreter\MetaMapInterpreterInterface;
-use Komin\Application\ElementInstallerOld\MetaRepository\MetaRepositoryInterface;
-use Komin\Application\ElementInstallerOld\Monitor\MonitorInterface;
-use Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloader;
-use Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloaderInterface;
-use Komin\Application\ElementInstallerOld\Stock\StockInterface;
-use Komin\Application\ElementInstallerOld\Tool\ElementInstallerTool;
+use Ling\BeeFramework\Bat\ClassTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\Komin\Application\ElementInstallerOld\Installer\ElementInstallerInterface;
+use Ling\Komin\Application\ElementInstallerOld\MetaMapInterpreter\MetaMapInterpreterInterface;
+use Ling\Komin\Application\ElementInstallerOld\MetaRepository\MetaRepositoryInterface;
+use Ling\Komin\Application\ElementInstallerOld\Monitor\MonitorInterface;
+use Ling\Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloader;
+use Ling\Komin\Application\ElementInstallerOld\ResourceDownloader\ResourceDownloaderInterface;
+use Ling\Komin\Application\ElementInstallerOld\Stock\StockInterface;
+use Ling\Komin\Application\ElementInstallerOld\Tool\ElementInstallerTool;
 
 
 /**

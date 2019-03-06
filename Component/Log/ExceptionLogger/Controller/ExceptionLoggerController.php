@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Controller;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Controller;
 
-use BeeFramework\Abstractive\CallableProvider\CallableProviderInterface;
-use BeeFramework\Bat\BglobTool;
-use BeeFramework\Bat\NumberTool;
-use Komin\Component\Log\ExceptionLogger\Listener\ExceptionListenerInterface;
+use Ling\BeeFramework\Abstractive\CallableProvider\CallableProviderInterface;
+use Ling\BeeFramework\Bat\BglobTool;
+use Ling\BeeFramework\Bat\NumberTool;
+use Ling\Komin\Component\Log\ExceptionLogger\Listener\ExceptionListenerInterface;
 
 
 /**

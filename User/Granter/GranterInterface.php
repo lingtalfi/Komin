@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\User\Granter;
+namespace Ling\Komin\User\Granter;
 
 
 /**

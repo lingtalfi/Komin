@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Matcher\NodeMatcher;
+namespace Ling\Komin\Component\Matcher\NodeMatcher;
 
 
 /**

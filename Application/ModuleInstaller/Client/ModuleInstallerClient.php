@@ -9,27 +9,27 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Client;
+namespace Ling\Komin\Application\ModuleInstaller\Client;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\SanitizerTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\Exception\AbortProcessException;
-use Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\ModuleInstallerClientTool;
-use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
-use Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;
-use Komin\Application\ModuleInstaller\Downloader\Downloader;
-use Komin\Application\ModuleInstaller\Downloader\DownloaderInterface;
-use Komin\Application\ModuleInstaller\Installer\DebugInstaller;
-use Komin\Application\ModuleInstaller\Installer\InstallerInterface;
-use Komin\Application\ModuleInstaller\Repository\RepositoryInterface;
-use Komin\Application\ModuleInstaller\Stock\StockInterface;
-use Komin\Application\ModuleInstaller\UserStream\DebugUserStream;
-use Komin\Application\ModuleInstaller\UserStream\UserStreamInterface;
-use Komin\Application\ModuleInstaller\Vns\VersionSorter\VersionSorterUtil;
-use Komin\Component\Monitor\Traits\ClassicMonitorTrait;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\SanitizerTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\Exception\AbortProcessException;
+use Ling\Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\ModuleInstallerClientTool;
+use Ling\Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelper;
+use Ling\Komin\Application\ModuleInstaller\Client\ProtocolHelper\ProtocolHelperInterface;
+use Ling\Komin\Application\ModuleInstaller\Downloader\Downloader;
+use Ling\Komin\Application\ModuleInstaller\Downloader\DownloaderInterface;
+use Ling\Komin\Application\ModuleInstaller\Installer\DebugInstaller;
+use Ling\Komin\Application\ModuleInstaller\Installer\InstallerInterface;
+use Ling\Komin\Application\ModuleInstaller\Repository\RepositoryInterface;
+use Ling\Komin\Application\ModuleInstaller\Stock\StockInterface;
+use Ling\Komin\Application\ModuleInstaller\UserStream\DebugUserStream;
+use Ling\Komin\Application\ModuleInstaller\UserStream\UserStreamInterface;
+use Ling\Komin\Application\ModuleInstaller\Vns\VersionSorter\VersionSorterUtil;
+use Ling\Komin\Component\Monitor\Traits\ClassicMonitorTrait;
 
 
 /**

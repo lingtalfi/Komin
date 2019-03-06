@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Listener\Tool;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Listener\Tool;
 
-use BeeFramework\Bat\ClassTool;
-use BeeFramework\Bat\DateTool;
+use Ling\BeeFramework\Bat\ClassTool;
+use Ling\BeeFramework\Bat\DateTool;
 
 
 /**

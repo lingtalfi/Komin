@@ -2,9 +2,9 @@
 <?php
 
 
-use Komin\Component\Console\Dialog\Dialog;
-use Komin\Component\Console\Dialog\Tool\DialogListTool;
-use Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
+use Ling\Komin\Component\Console\Dialog\Dialog;
+use Ling\Komin\Component\Console\Dialog\Tool\DialogListTool;
+use Ling\Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

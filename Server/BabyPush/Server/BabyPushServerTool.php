@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\BabyPush\Server;
+namespace Ling\Komin\Server\BabyPush\Server;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\RandomTool;
-use BeeFramework\Bat\StringTool;
-use Komin\Server\BabyPush\Task\TaskInterface;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\RandomTool;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\Komin\Server\BabyPush\Task\TaskInterface;
 
 
 /**

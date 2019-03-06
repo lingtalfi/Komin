@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\AjaxTim;
+namespace Ling\Komin\Server\AjaxTim;
 
 
 /**

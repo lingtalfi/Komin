@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\Config\ColorConfig;
+namespace Ling\Komin\Application\Config\ColorConfig;
 
-use BeeFramework\Application\Config\Util\FeeConfig;
-use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
+use Ling\BeeFramework\Application\Config\Util\FeeConfig;
+use Ling\BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
 
 
 /**

@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\FileServer;
+namespace Ling\Komin\Server\FileServer;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Bat\SanitizerTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\SanitizerTool;
 
 
 /**

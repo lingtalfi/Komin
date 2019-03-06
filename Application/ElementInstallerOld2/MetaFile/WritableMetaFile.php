@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\MetaFile;
+namespace Ling\Komin\Application\ElementInstaller\MetaFile;
 
-use BeeFramework\Bat\BdotTool;
-use Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ProcessLogger;
+namespace Ling\Komin\Component\Log\ProcessLogger;
 
 
 /**

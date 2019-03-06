@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Monitor;
+namespace Ling\Komin\Component\Monitor;
 
-use Komin\Component\Monitor\Listener\MonitorListenerInterface;
+use Ling\Komin\Component\Monitor\Listener\MonitorListenerInterface;
 
 
 

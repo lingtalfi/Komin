@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\RemoteShell\Command;
+namespace Ling\Komin\Server\RemoteShell\Command;
 
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

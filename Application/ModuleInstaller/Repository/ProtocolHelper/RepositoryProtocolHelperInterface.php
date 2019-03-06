@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Repository\ProtocolHelper;
+namespace Ling\Komin\Application\ModuleInstaller\Repository\ProtocolHelper;
 
 
 /**

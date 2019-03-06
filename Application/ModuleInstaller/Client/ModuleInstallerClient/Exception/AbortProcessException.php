@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\Exception;
+namespace Ling\Komin\Application\ModuleInstaller\Client\ModuleInstallerClient\Exception;
 
 
 

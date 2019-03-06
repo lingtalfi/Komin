@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Controller;
-use Komin\Component\Log\ExceptionLogger\ExceptionLoggerInterface;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Controller;
+use Ling\Komin\Component\Log\ExceptionLogger\ExceptionLoggerInterface;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\BabyPush\ServerApi;
+namespace Ling\Komin\Server\BabyPush\ServerApi;
 
 
 

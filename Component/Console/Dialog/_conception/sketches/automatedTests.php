@@ -2,11 +2,11 @@
 <?php
 
 
-use Komin\Component\Console\Dialog\Dialog;
-use Komin\Component\Console\Dialog\Tool\BooleanDialogTool;
-use Komin\Component\Console\KeyboardListener\KeyboardListener;
-use Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
-use Komin\Component\Console\Tool\TerminalCodesTool;
+use Ling\Komin\Component\Console\Dialog\Dialog;
+use Ling\Komin\Component\Console\Dialog\Tool\BooleanDialogTool;
+use Ling\Komin\Component\Console\KeyboardListener\KeyboardListener;
+use Ling\Komin\Component\Console\KeyboardListener\Tool\KeyboardListenerTool;
+use Ling\Komin\Component\Console\Tool\TerminalCodesTool;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

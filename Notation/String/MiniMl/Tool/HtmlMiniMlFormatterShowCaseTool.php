@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Notation\String\MiniMl\Tool;
+namespace Ling\Komin\Notation\String\MiniMl\Tool;
 
-use Komin\Notation\String\MiniMl\Formatter\HtmlMiniMlFormatter;
+use Ling\Komin\Notation\String\MiniMl\Formatter\HtmlMiniMlFormatter;
 
 
 /**

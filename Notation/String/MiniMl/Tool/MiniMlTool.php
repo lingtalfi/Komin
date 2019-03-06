@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Notation\String\MiniMl\Tool;
+namespace Ling\Komin\Notation\String\MiniMl\Tool;
 
-use Komin\Notation\String\MiniMl\Formatter\ConsoleMiniMlFormatter;
-use Komin\Notation\String\MiniMl\Formatter\HtmlMiniMlFormatter;
-use Komin\Notation\String\MiniMl\Formatter\StripMiniMlFormatter;
-use Komin\Notation\String\MiniMl\Util\MiniMlFormatterUtil;
+use Ling\Komin\Notation\String\MiniMl\Formatter\ConsoleMiniMlFormatter;
+use Ling\Komin\Notation\String\MiniMl\Formatter\HtmlMiniMlFormatter;
+use Ling\Komin\Notation\String\MiniMl\Formatter\StripMiniMlFormatter;
+use Ling\Komin\Notation\String\MiniMl\Util\MiniMlFormatterUtil;
 
 
 /**

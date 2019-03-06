@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Notation\String\MiniMl\Util;
+namespace Ling\Komin\Notation\String\MiniMl\Util;
 
-use Komin\Notation\String\MiniMl\Formatter\MiniMlFormatterInterface;
+use Ling\Komin\Notation\String\MiniMl\Formatter\MiniMlFormatterInterface;
 
 
 /**

@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader;
+namespace Ling\Komin\Component\Db\FixtureLoader;
 
-use BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
-use Komin\Component\Db\FixtureLoader\DbProcessor\DbProcessorInterface;
-use Komin\Component\Db\FixtureLoader\DbProcessor\PdoDbProcessor;
-use Komin\Component\Db\FixtureLoader\DbProcessor\PdoMysqlDbProcessor;
-use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
-use Komin\Component\Db\FixtureLoader\FixtureStorage\BabyYamlFixtureStorage;
-use Komin\Component\Db\FixtureLoader\FixtureStorage\FixtureStorageInterface;
+use Ling\BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
+use Ling\Komin\Component\Db\FixtureLoader\DbProcessor\DbProcessorInterface;
+use Ling\Komin\Component\Db\FixtureLoader\DbProcessor\PdoDbProcessor;
+use Ling\Komin\Component\Db\FixtureLoader\DbProcessor\PdoMysqlDbProcessor;
+use Ling\Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
+use Ling\Komin\Component\Db\FixtureLoader\FixtureStorage\BabyYamlFixtureStorage;
+use Ling\Komin\Component\Db\FixtureLoader\FixtureStorage\FixtureStorageInterface;
 
 
 /**

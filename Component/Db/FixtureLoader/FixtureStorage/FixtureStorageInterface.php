@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader\FixtureStorage;
+namespace Ling\Komin\Component\Db\FixtureLoader\FixtureStorage;
 
 
 /**

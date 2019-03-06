@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Sound\ShellSoundPlayer;
+namespace Ling\Komin\Sound\ShellSoundPlayer;
 
-use BeeFramework\Bat\MachineTool;
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Bat\MachineTool;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

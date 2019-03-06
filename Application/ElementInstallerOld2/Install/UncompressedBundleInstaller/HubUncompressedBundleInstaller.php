@@ -9,17 +9,17 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
+namespace Ling\Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
 
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
-use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
-use Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;
-use Komin\Application\ElementInstaller\MetaFile\MetaFileAwareInterface;
-use Komin\Application\ElementInstaller\MetaFile\MetaFileHubInterface;
-use Komin\Component\Log\ProcessLogger\DisplayProcessLogger;
-use Komin\Component\Log\ProcessLogger\ProcessLoggerAwareInterface;
-use Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\Komin\Application\ElementInstaller\Install\Exception\InstallProcessInterruptedException;
+use Ling\Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
+use Ling\Komin\Application\ElementInstaller\MetaFile\Exception\MissingMetaPropertyException;
+use Ling\Komin\Application\ElementInstaller\MetaFile\MetaFileAwareInterface;
+use Ling\Komin\Application\ElementInstaller\MetaFile\MetaFileHubInterface;
+use Ling\Komin\Component\Log\ProcessLogger\DisplayProcessLogger;
+use Ling\Komin\Component\Log\ProcessLogger\ProcessLoggerAwareInterface;
+use Ling\Komin\Component\Log\ProcessLogger\ProcessLoggerInterface;
 
 
 /**

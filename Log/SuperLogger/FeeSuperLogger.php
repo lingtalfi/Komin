@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Log\SuperLogger;
+namespace Ling\Komin\Log\SuperLogger;
 
-use BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
-use BeeFramework\Component\Log\SuperLogger\Listener\DisplayListener;
-use BeeFramework\Component\Log\SuperLogger\Listener\PlaySoundListener;
-use BeeFramework\Component\Log\SuperLogger\Listener\ToFileListener;
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
-use Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
+use Ling\BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
+use Ling\BeeFramework\Component\Log\SuperLogger\Listener\DisplayListener;
+use Ling\BeeFramework\Component\Log\SuperLogger\Listener\PlaySoundListener;
+use Ling\BeeFramework\Component\Log\SuperLogger\Listener\ToFileListener;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
 
 
 /**

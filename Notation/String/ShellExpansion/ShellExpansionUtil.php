@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Notation\String\ShellExpansion;
+namespace Ling\Komin\Notation\String\ShellExpansion;
 
-use BeeFramework\Bat\MicroStringTool;
+use Ling\BeeFramework\Bat\MicroStringTool;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Server\FileServer;
+namespace Ling\Komin\Server\FileServer;
 
 
 /**

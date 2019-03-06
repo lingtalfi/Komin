@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Stock;
+namespace Ling\Komin\Application\ElementInstallerOld\Stock;
 
 /**
  * StockInterface

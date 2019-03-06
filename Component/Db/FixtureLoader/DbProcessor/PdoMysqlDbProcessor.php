@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Db\FixtureLoader\DbProcessor;
+namespace Ling\Komin\Component\Db\FixtureLoader\DbProcessor;
 
-use Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
+use Ling\Komin\Component\Db\FixtureLoader\Fixture\FixtureInterface;
 
 
 /**

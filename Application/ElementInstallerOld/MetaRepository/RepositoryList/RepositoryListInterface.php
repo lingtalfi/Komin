@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstallerOld\Repository\RepositoryList;
+namespace Ling\Komin\Application\ElementInstallerOld\Repository\RepositoryList;
 
-use Komin\Application\ElementInstallerOld\Repository\RepositoryInterface;
+use Ling\Komin\Application\ElementInstallerOld\Repository\RepositoryInterface;
 
 
 /**

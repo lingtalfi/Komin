@@ -14,7 +14,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import Komin
+uni import Ling/Komin
 ```
 
 Or just download it and place it where you want otherwise.

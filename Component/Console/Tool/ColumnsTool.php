@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\Tool;
+namespace Ling\Komin\Component\Console\Tool;
 
-use BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Bat\ArrayTool;
 
 
 /**

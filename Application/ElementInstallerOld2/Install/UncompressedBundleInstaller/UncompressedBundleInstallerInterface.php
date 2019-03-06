@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
-use Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
+namespace Ling\Komin\Application\ElementInstaller\Install\UncompressedBundleInstaller;
+use Ling\Komin\Application\ElementInstaller\Install\InstallVars\InstallVarsInterface;
 
 
 /**

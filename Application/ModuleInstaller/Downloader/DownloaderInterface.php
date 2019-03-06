@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Downloader;
+namespace Ling\Komin\Application\ModuleInstaller\Downloader;
 
 
 /**

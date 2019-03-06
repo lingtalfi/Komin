@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\StreamWrapper\ProgramStreamWrappers;
+namespace Ling\Komin\Component\Console\StreamWrapper\ProgramStreamWrappers;
 
-use Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\InputStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\InputStreamWrapperInterface;
-use Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\BashtmlErrorStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\ErrorStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\ErrorStreamWrapperInterface;
-use Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\BashtmlOutputStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\OutputStreamWrapper;
-use Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\OutputStreamWrapperInterface;
+use Ling\Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\InputStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Readable\InputStreamWrapper\InputStreamWrapperInterface;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\BashtmlErrorStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\ErrorStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\ErrorStreamWrapper\ErrorStreamWrapperInterface;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\BashtmlOutputStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\OutputStreamWrapper;
+use Ling\Komin\Component\Console\StreamWrapper\Writable\OutputStreamWrapper\OutputStreamWrapperInterface;
 
 
 /**

@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Notation\String\MiniMl\Formatter;
+namespace Ling\Komin\Notation\String\MiniMl\Formatter;
 
-use Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser;
-use Komin\Notation\String\MiniMl\Formatter\ParentsAwareMarkupParser\MiniMlConsoleParentsAwareMarkupParserAdaptor;
+use Ling\Komin\Component\String\ParentsAwareMarkupParser\ParentsAwareMarkupParser;
+use Ling\Komin\Notation\String\MiniMl\Formatter\ParentsAwareMarkupParser\MiniMlConsoleParentsAwareMarkupParserAdaptor;
 
 
 /**

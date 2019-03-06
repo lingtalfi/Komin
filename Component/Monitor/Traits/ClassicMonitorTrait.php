@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Monitor\Traits;
+namespace Ling\Komin\Component\Monitor\Traits;
 
-use BeeFramework\Bat\VarTool;
-use Komin\Component\Monitor\ClassicMonitor;
-use Komin\Component\Monitor\VoidMonitor;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\Komin\Component\Monitor\ClassicMonitor;
+use Ling\Komin\Component\Monitor\VoidMonitor;
 
 
 /**

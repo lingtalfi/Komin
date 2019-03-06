@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Client\ModuleInstallerClient;
+namespace Ling\Komin\Application\ModuleInstaller\Client\ModuleInstallerClient;
 
-use BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
-use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use Ling\BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
+use Ling\BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
 
 
 /**

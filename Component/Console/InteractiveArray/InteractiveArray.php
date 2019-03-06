@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Console\InteractiveArray;
+namespace Ling\Komin\Component\Console\InteractiveArray;
 
-use BeeFramework\Bat\ArrayTool;
-use Komin\Component\Console\Dialog\Dialog;
-use Komin\Component\Console\Dialog\Tool\BooleanDialogTool;
-use Komin\Component\Console\Dialog\Tool\DialogListTool;
-use Komin\Component\Console\Dialog\Tool\DialogRepeaterTool;
-use Komin\Component\Console\InteractiveArray\Exception\UserSatisfyWithArrayException;
-use Komin\Component\Console\KeyboardListener\KeyboardListenerInterface;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLine\EditableLine;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver\PreBehaviour;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool\EditableLineDefaultValueWrapper;
-use Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool\EditableLineShortcutWrapper;
-use Komin\Component\Console\Tool\TerminalCodesTool;
-use Komin\Notation\String\MiniMl\Tool\MiniMlTool;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\Komin\Component\Console\Dialog\Dialog;
+use Ling\Komin\Component\Console\Dialog\Tool\BooleanDialogTool;
+use Ling\Komin\Component\Console\Dialog\Tool\DialogListTool;
+use Ling\Komin\Component\Console\Dialog\Tool\DialogRepeaterTool;
+use Ling\Komin\Component\Console\InteractiveArray\Exception\UserSatisfyWithArrayException;
+use Ling\Komin\Component\Console\KeyboardListener\KeyboardListenerInterface;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLine\EditableLine;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\EditableLineSymbolicCodeObserver\PreBehaviour;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool\EditableLineDefaultValueWrapper;
+use Ling\Komin\Component\Console\KeyboardListener\Observer\SymbolicCodeObserver\Tool\EditableLineShortcutWrapper;
+use Ling\Komin\Component\Console\Tool\TerminalCodesTool;
+use Ling\Komin\Notation\String\MiniMl\Tool\MiniMlTool;
 
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Log\ExceptionLogger\Listener;
+namespace Ling\Komin\Component\Log\ExceptionLogger\Listener;
 
-use BeeFramework\Component\Mail\SmtpMailer\SmtpClientInterface;
+use Ling\BeeFramework\Component\Mail\SmtpMailer\SmtpClientInterface;
 
 
 /**

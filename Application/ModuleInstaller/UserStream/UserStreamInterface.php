@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\UserStream;
+namespace Ling\Komin\Application\ModuleInstaller\UserStream;
 
 
 /**

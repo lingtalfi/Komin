@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ElementInstaller\Install\InstallVars;
+namespace Ling\Komin\Application\ElementInstaller\Install\InstallVars;
 
-use BeeFramework\Component\Bag\BdotBag;
+use Ling\BeeFramework\Component\Bag\BdotBag;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Component\Mail\XMail\XMailer;
+namespace Ling\Komin\Component\Mail\XMail\XMailer;
 
 
 /**

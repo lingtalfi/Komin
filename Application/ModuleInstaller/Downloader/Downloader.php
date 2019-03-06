@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Komin\Application\ModuleInstaller\Downloader;
+namespace Ling\Komin\Application\ModuleInstaller\Downloader;
 
-use BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\FileTool;
 
 
 /**
